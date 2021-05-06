@@ -1,3 +1,9 @@
+Youtube video playlist class: 
+https://www.youtube.com/watch?v=T2mBybg6XnQ&list=PLx-q4INfd95EDZlNka9WicLOlVhXpRbXB
+
+
+
+
 # Project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.0.
